@@ -1,0 +1,5 @@
+browser = chrome
+headless = no
+url = https://wheelsup.com
+incognito = yes
+highlight = yes
